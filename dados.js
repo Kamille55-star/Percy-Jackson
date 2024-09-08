@@ -15,19 +15,22 @@ let dados = [
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikw0ZOH90jYYXdkTqQ-q_Sl2zDaKWZpAIE-3JUdXwpXIR5C0CybT_WK3pacjE6aeI954&usqp=CAU",
       titulo: "Percy Jackson",
       descricao: "Percy Jackson é filho da mortal Sally Jackson e do deus Poseidon. É um semideus com poderes envolvendo a água, cavalos e terremotos, sendo capaz de causar grandes terremotos, controlar a água e se manter seco ou até mesmo de respirar na água e de falar com cavalos ou animais próximos a cavalos, como zebras e pégasos. Seu defeito fatal é a lealdade.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Percy_Jackson"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Percy_Jackson",
+      combinacao: "https://pm1.aminoapps.com/7054/ba384b0eba6eff0cb254ab2edc10daebcdff5c37r1-1200-1800v2_hq.jpg"
     },
     {
       imagem: "https://i.pinimg.com/736x/05/0b/04/050b046c58b99a7fe69e2481c4a94675.jpg",
       titulo: "Annabeth Chase",
       descricao: "Annabeth Chase é filha da deusa Atena e do mortal Frederick Chase. Possui grande inteligência e estratégia em batalha, e no começo da saga não se dá bem com o pai. Seu defeito fatal é o orgulho.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Annabeth_Chase"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Annabeth_Chase",
+      combinacao: "https://www.projetou.com.br/posts/wp-content/uploads/sites/6/2021/06/partenon-2-1024x704.jpg"
     },
     {
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTup87UwlCcBfAMRLkH9Bggv3FExvCjAG_VFw&s",
       titulo: "Thalia Grace",
       descricao: "Thalia Grace é filha da mortal Beryl Grace e do deus Zeus. Aos 12 anos foi transformada em um pinheiro quando ficou para trás para salvar Annabeth e Luke. Possui medo de altura e atualmente é uma caçadora de Ártemis. Possui a habilidade de controlar a névoa e a eletricidade. Seu defeito fatal é a ambição.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Thalia_Grace"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Thalia_Grace",
+      combinacao: "https://pbs.twimg.com/media/Ep2RC6dXUAUkx4f.jpg"
     },
     {
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02DYv88xf3pVlQ4XDxSfP46pDa8K0GvHMWQ&s",
