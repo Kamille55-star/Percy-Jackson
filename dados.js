@@ -2,12 +2,14 @@ let dados = [
     {
       titulo: "Acampamento meio-sangue",
       descricao: "Acampamento grego para semideuses, um dos poucos locais seguros para os semideuses. É um local de treinamento para os semideuses e não possui um sistema de organização de lider, o cargo mais alto que há é o líder da cabana, diferentemente do acampamento romano.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Acampamento_Meio-Sangue"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Acampamento_Meio-Sangue",
+      combinacao: "https://acampamentomeiosangue-rpg-2-0.weebly.com/uploads/4/6/6/0/46605143/1454561.jpg?839",
     },
     {
       titulo: "Acampamento Júpiter",
       descricao: "Acampamento romano para semideuses, um dos poucos locais seguros para os semideuses. É um local de treinamento para os semideuses e possui um sistema bem organizado de liderança, sendo composto por: Probatio, Legionário, Centurião, Senador, Pretor e, Cônsul.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Acampamento_J%C3%BApiter"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Acampamento_J%C3%BApiter",
+      combinacao: "https://i.pinimg.com/736x/73/89/fe/7389feb4b666928a5e19f2b0d2b2ea8a.jpg",
     },
    {
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikw0ZOH90jYYXdkTqQ-q_Sl2zDaKWZpAIE-3JUdXwpXIR5C0CybT_WK3pacjE6aeI954&usqp=CAU",
