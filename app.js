@@ -25,7 +25,7 @@ campoPesquisa = campoPesquisa.toLowerCase()
     <div class="item-resultado">
     <img src=${dado.imagem} alt="">
               <h2> 
-                <a href="#" target="_blank">${dado.titulo}</a>
+                <a href="${dado.combinacao}" target="_blank">${dado.titulo}</a>
               </h2>
           <p class = "descricao">${dado.descricao}</p>
               <a href="${dado.link}" target="_blank">Mais informações</a>
