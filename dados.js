@@ -114,7 +114,7 @@ let dados = [
     {
       imagem: "https://i.pinimg.com/474x/e2/99/29/e29929eb4257c79a1a829ca767088d89.jpg",
       titulo: "Hazel Levesque",
-      descricao: "Filha de Plutão (contraparte romana de Hades) e Marie Levesque. É meia-irmã de Nico e Biancaa Di Angelo. Pode controlar pedras preciosas e morreu em 1941, e iria para os campos Elísios, mas se sacrificou pela mãe, aceitando a punição dela em troca de deixá-la ilesa. Reviveu 70 anos depois, quando Nico Di Angelo a encontrou enquanto procurava Bianca Di Angelo.",
+      descricao: "Filha de Plutão (contraparte romana de Hades) e Marie Levesque. É meia-irmã de Nico e Bianca Di Angelo. Pode controlar pedras preciosas e morreu em 1941, e iria para os campos Elísios, mas se sacrificou pela mãe, aceitando a punição dela em troca de deixá-la ilesa. Reviveu 70 anos depois, quando Nico Di Angelo a encontrou enquanto procurava Bianca Di Angelo.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Hazel_Levesque#Vida_Pregressa"
     },
     {
