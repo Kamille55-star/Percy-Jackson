@@ -51,12 +51,14 @@ let dados = [
       titulo: "Athena/Atena",
       descricao: "Deusa da sabedoria e da estratégia em guerras, da civilização, matemática, estratégia, guerra defensiva, do artesanato, das artes, habilidades, da inteligência e do brilhantismo, seu símbolo é uma coruja. Teve uma desavença com Aracne e depois disso todos os seus filhos adquiriram medo de aranhas. Olhos cinzentos e calculistas. Não gosta do Percy. Contraparte romano: Minerva.",
       link: "https://riordan.fandom.com/wiki/Athena",
+      combinacao: "https://avesornamentaisjej.cdn.magazord.com.br/img/2024/03/produto/462/79-coruja-suindara-2.png?ims=600x600"
     },
     {
       imagem: "https://i.pinimg.com/564x/d7/ae/72/d7ae724aeb0af8b702e4d75008539d84.jpg",
       titulo: "Dionísio",
       descricao: "Deus do vinho, do teatro, da loucura, das festas e da alegria. Foi condenado a ficar no acampamento meio-sangue e foi proibido de beber vinho após perseguir uma ninfa duas vezes. Contraparte romano: Baco.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Dion%C3%ADsio"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Dion%C3%ADsio",
+      combinacao: "https://m.media-amazon.com/images/I/51wYv9ua2qL._AC_UF894,1000_QL80_.jpg"
     },
     {
       imagem: "https://static.wikia.nocookie.net/8f4d3252-c964-4d1b-90b7-a880c744b6ef/scale-to-width/755",
