@@ -36,13 +36,15 @@ let dados = [
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02DYv88xf3pVlQ4XDxSfP46pDa8K0GvHMWQ&s",
       titulo: "Clarisse La Rue",
       descricao: "Filha do deus da guerra Ares com uma mortal desconhecida. É líder do chalé de Ares e gosta bastante de brigar. Demorou bastante para virar amiga do Percy. Seu defeito fatal provavelmente é o orgulho. Interesse amoroso: Chris Rodríguez.",
-      link: "https://aminoapps.com/c/mitologicpt/page/item/clarisse-la-rue/mq8j_8JF0Ie0d7bKQMzPpzrga144DraeQ1"
+      link: "https://aminoapps.com/c/mitologicpt/page/item/clarisse-la-rue/mq8j_8JF0Ie0d7bKQMzPpzrga144DraeQ1",
+      combinacao: "https://pm1.aminoapps.com/6475/ed59a93084fd637a1cf7c8c42e891477884b657e_hq.jpg"
     },
     {
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQbocEOIRUb068YL1radhLjNQUAkW3kSuH6Q&s",
       titulo: "Poseidon",
       descricao: "Deus dos mares, terremotos, cavalos, lagos, rios, tempestades, secas, inundações. É pai de Percy Jackson e rival de Athena. Contraparte romano: Netuno.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Poseidon"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Poseidon",
+      combinacao: "https://3cc791f55f295f1d.cdn.gocache.net/versada/img_blog/i1_13_21_1114_041018.jpg"
     },
     {
       imagem: "https://cdn.rickriordan.com/wp-content/uploads/2017/04/11230243/athenalongerguard-299x416.jpg",
