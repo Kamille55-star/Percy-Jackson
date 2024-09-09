@@ -64,7 +64,8 @@ let dados = [
       imagem: "https://static.wikia.nocookie.net/8f4d3252-c964-4d1b-90b7-a880c744b6ef/scale-to-width/755",
       titulo: "Héstia",
       descricao: "Deusa da lareira, do fogo, do calor, do lar, da família, da vida doméstica, das oferendas, do estado e da crença. A mais velha dos 12 Olimpianos, ela desistiu de seu lugar no Olimpo. A atual guardiã de Elpis, o espírito da esperança. Contraparte romana: Vesta.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/H%C3%A9stia"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/H%C3%A9stia",
+      combinacao: "https://modobrincar.rihappy.com.br/wp-content/uploads/2022/03/familia-feliz-980x500.jpeg"
     },
     {
       imagem: "https://i.pinimg.com/originals/72/84/3d/72843d89d4b180b5de2016af10d75001.jpg",
