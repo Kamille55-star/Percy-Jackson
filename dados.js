@@ -71,67 +71,78 @@ let dados = [
       imagem: "https://i.pinimg.com/originals/72/84/3d/72843d89d4b180b5de2016af10d75001.jpg",
       titulo: "Grover",
       descricao: "Grover foi o sátiro designado para cuidar de Thalia Grace e de Percy Jackson, se tornando um grande amigo do filho de Poseidon. Foi o primeiro e único buscador a encontrar Pã e se tornou membro do Conselho dos Anciãos de Casco Fendido. Pode dar bençãos aos animais, ler emoções, sentir cheiros de mosntros, deuses, semideuses e outras criaturas poderosas, é um excelente escalador e possui medo do subterrâneo e de ciclopes, e por isso não se dava bem com Tyson no início.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Grover_Underwood"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Grover_Underwood",
+      combinacao: "https://images.tcdn.com.br/img/img_prod/992371/flauta_doce_de_bambu_em_g_sol_capa_gratis_15_1_5f6dfdc6cb82741dd7805b139331cfc3.jpg"
     },
     {
       imagem: "https://i.pinimg.com/originals/b5/68/7d/b5687d94b70eab3a49d7664ea3cb6bd0.jpg",
       titulo: "Tyson",
       descricao: "Tyson é um ciclope, sendo filho de Poseidon e meio-irmão de Percy. Um dos poucos ciclopes bons, gentil, doce, infantil, chorão. Possui grande habilidades de contrução, só usa força bruta para salvar os amigos e é muito inteligente. É um dos poucos ciclopes realmente reconhecidos e reclamados por Poseidon.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Tyson"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Tyson",
+      combinacao: "https://s2.glbimg.com/5wnmNnB4POV5hGlrrljdNEKz7JE=/620x453/e.glbimg.com/og/ed/f/original/2013/03/05/shutterstock_111014786.jpg"
     },
     {
       imagem: "https://pm1.aminoapps.com/6508/432d26b81164c627a14d8cb2ea47a326f4a2dd81_128.jpg",
       titulo: "Sra. O' Leary/ Sra O' leary",
       descricao: "Único cão infernal amigável existente. Seu dono inicialmente era Quintus (Dédalo), mas depois da morte de Dédalo o seu dono virou Percy. Ela é filha de Cérbero e Nix.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Sra.O%27Leary"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Sra.O%27Leary",
+      combinacao: "https://i.pinimg.com/550x/d0/11/1c/d0111c80b1b36913ce48d48416ba958e.jpg"
     },
     {
       imagem: "https://camp-chb.weebly.com/uploads/1/9/5/0/19500693/112650710.png",
       titulo: "Cães infernais",
       descricao: "Eles são originários dos Campos de Punição. Esses cães, podem farejar qualquer tipo de meio-sangue e são servos de Hades. São filhos de Cérbero e Nix.",
-      link: "https://acampamentomeio-sangue.fandom.com/pt-br/wiki/C%C3%A3o_Infernal"
+      link: "https://acampamentomeio-sangue.fandom.com/pt-br/wiki/C%C3%A3o_Infernal",
+      combinacao: "https://i.pinimg.com/736x/df/f2/3a/dff23acf9f0003d2210db452c0fe7a92.jpg"
     },
     {
       imagem: "https://i.pinimg.com/564x/c2/a2/4c/c2a24cdf1e3e1928dfeba217ae875675.jpg",
       titulo: "Empousai (Empusa ou Empousa)",
       descricao: "Filhas da deusa Hécate e do espírito Mormo, possuem cabelos flamejantes, uma perna de bode e outra perna de Bronze celestial. As Empusas são enviadas por Hécate para vigiar estradas e devorar viajantes. Criadas pela combinação de magia negra, animal, bronze e fantasma.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Empusa"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Empusa",
+      combinacao: "#"
     },
     {
       imagem: "https://i.pinimg.com/736x/93/11/51/93115197640ea3960ab48447ce7f4324.jpg",
       titulo: "Píton/Python/Piton",
       descricao: "Serpente monstruosa que foi morta por Apolo e foi revivida por Gaia para destruir o oráculo de Delfos. Nasceu quando Zeus inundou o mundo para punir os humanos. Quando Leto foi na Terra procurando um lugar para dar à luz depois que Hera a amaldiçoou, Python a expulsou.",
-      link: "https://riordan.fandom.com/wiki/Python"
+      link: "https://riordan.fandom.com/wiki/Python",
+      combinacao: "#"
     },
     {
       imagem: "https://pm1.aminoapps.com/7184/0082ff2eb8218cbb11ae2d876cad9cc602f2b629r1-591-475v2_00.jpg",
       titulo: "Mymerkos",
       descricao: "Formigas gigantes com carcaças extremamente resistentes e rubras. Suas pinças são usadas como armas, secretando veneno e uma gosma pegajosa. Habitam fortalezas ou subterrâneos. São atraídas por metais, principalmente ouro.",
-      link: "https://aminoapps.com/c/percy-jackson-br/page/item/myrmekos/wkNm_vTpIJa6GLrQKm2jk2404dxpQl4qb"
+      link: "https://aminoapps.com/c/percy-jackson-br/page/item/myrmekos/wkNm_vTpIJa6GLrQKm2jk2404dxpQl4qb",
+      combinacao: "#"
     },
     {
       imagem: "https://i.pinimg.com/736x/58/64/53/586453a99ff8bcfad8d546eedae8d185.jpg",
       titulo: "Jason Grace",
       descricao: "Filho de Júpiter (contraparte romano de Zeus) e Beryl Grace, é irmão mais novo de Thalia Grace. Pode controlar os ventos. Foi treinado por Lupa e virou pretor do acampamento romano.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Jason_Grace"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Jason_Grace",
+      combinacao: "https://i.quotev.com/b3zu7xekaaaa.jpg"
     },
     {
       imagem: "https://i.pinimg.com/564x/ca/ab/81/caab8106e423574c6add3d6719753b64.jpg",
       titulo: "Frank Zhang",
       descricao: "Filho de Marte (contraparte romano de Ares) com a mortal Emily Zhang, possui alergia a lactose e por muito tempo teve sua vida ligada à um graveto. É um descendente de Periclimeno, um príncipe grego neto de Poseidon, sendo um semideus e um legado. abençoado com a habilidade de mudar de forma da sua família, além de suas habilidades como um filho de Marte. Primeiro semideus conhecido a não possuir TDAH e dislexia.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Frank_Zhang"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Frank_Zhang",
+      combinacao: "https://pm1.aminoapps.com/7102/fbe6ec1402ec3f74484b4b18e4ce154e59bb9c54r1-750-522v2_uhq.jpg"
     },
     {
       imagem: "https://i.pinimg.com/474x/e2/99/29/e29929eb4257c79a1a829ca767088d89.jpg",
       titulo: "Hazel Levesque",
       descricao: "Filha de Plutão (contraparte romana de Hades) e Marie Levesque. É meia-irmã de Nico e Bianca Di Angelo. Pode controlar pedras preciosas e morreu em 1941, e iria para os campos Elísios, mas se sacrificou pela mãe, aceitando a punição dela em troca de deixá-la ilesa. Reviveu 70 anos depois, quando Nico Di Angelo a encontrou enquanto procurava Bianca Di Angelo.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Hazel_Levesque#Vida_Pregressa"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Hazel_Levesque#Vida_Pregressa",
+      combinacao: "https://img.freepik.com/fotos-premium/pedra-de-ouro-de-ouro-bruto-em-macro-fotografia-de-tesouro-escondido-de-mina-de-ouro_72932-5768.jpg"
     },
     {
       imagem: "https://i.pinimg.com/564x/d9/04/8b/d9048b12ce8847aac70937b452ca2d5e.jpg",
       titulo: "Reyna Avila",
       descricao: "Reyna Avila Ramírez-Arellano é uma semideusa filha de Belona e irmã de Hylla Ramírez-Arellano, a atual rainha das Amazonas. Reyna foi pretora do Acampamento Júpiter por quatro anos, até se aposentar de seu cargo e jurar lealdade a Ártemis, se juntando as caçadoras. É sempre acompanhada por dois cachorros autômatos feitos de ouro e prata, respectivamente Aurum e Argentium.",
-      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Reyna_Avila_Ram%C3%ADrez-Arellano"
+      link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Reyna_Avila_Ram%C3%ADrez-Arellano",
+      combinacao: "https://static.quizur.com/i/b/5938c58770f933.03056855pixiz-08-06-2017-05-33-11.jpg"
     },
     {
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_lkWCjgAcgy7ENu_eynjTXy-PSTdiC-TQQ&s",
