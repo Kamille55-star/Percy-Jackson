@@ -70,7 +70,7 @@ let dados = [
     {
       imagem: "https://i.pinimg.com/originals/72/84/3d/72843d89d4b180b5de2016af10d75001.jpg",
       titulo: "Grover",
-      descricao: "Grover foi o sátiro designado para cuidar de Thalia Grace e de Percy Jackson, se tornando um grande amigo do filho de Poseidon. Foi o primeiro e único buscador a encontrar Pã e se tornou membro do Conselho dos Anciãos de Casco Fendido. Pode dar bençãos aos animais, ler emoções, sentir cheiros de mosntros, deuses, semideuses e outras criaturas poderosas, é um excelente escalador e possui medo do subterrâneo e de ciclopes, e por isso não se dava bem com Tyson no início.",
+      descricao: "Grover foi o sátiro designado para cuidar de Thalia Grace e de Percy Jackson, se tornando um grande amigo do filho de Poseidon. Foi o primeiro e único buscador a encontrar Pã e se tornou membro do Conselho dos Anciãos de Casco Fendido. Pode dar bençãos aos animais, ler emoções, sentir cheiros de monstros, deuses, semideuses e outras criaturas poderosas, é um excelente escalador e possui medo do subterrâneo e de ciclopes, e por isso não se dava bem com Tyson no início.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Grover_Underwood",
       combinacao: "https://images.tcdn.com.br/img/img_prod/992371/flauta_doce_de_bambu_em_g_sol_capa_gratis_15_1_5f6dfdc6cb82741dd7805b139331cfc3.jpg"
     },
