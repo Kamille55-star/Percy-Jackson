@@ -16,7 +16,7 @@ let dados = [
       titulo: "Percy Jackson",
       descricao: "Percy Jackson é filho da mortal Sally Jackson e do deus Poseidon. É um semideus com poderes envolvendo a água, cavalos e terremotos, sendo capaz de causar grandes terremotos, controlar a água e se manter seco ou até mesmo de respirar na água e de falar com cavalos ou animais próximos a cavalos, como zebras e pégasos. Seu defeito fatal é a lealdade.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Percy_Jackson",
-      combinacao: "https://www.cevek.com.br/blog/wp-content/uploads/2019/10/Quais-cuidados-eu-devo-ter-com-meu-porquinho-da-%C3%ADndia-min.jpg"
+      combinacao: "https://www.petz.com.br/blog/porquinho-da-india-pode-tomar-leite/",
     },
     {
       imagem: "https://i.pinimg.com/736x/05/0b/04/050b046c58b99a7fe69e2481c4a94675.jpg",
@@ -152,3 +152,4 @@ let dados = [
       combinacao: "https://pm1.aminoapps.com/7054/ba384b0eba6eff0cb254ab2edc10daebcdff5c37r1-1200-1800v2_hq.jpg"
     },
   ];
+
