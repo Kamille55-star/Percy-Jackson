@@ -7,7 +7,7 @@ let dados = [
       combinacao: "https://acampamentomeiosangue-rpg-2-0.weebly.com/uploads/4/6/6/0/46605143/1454561.jpg?839",
     },
     {
-      imagem: "https://acampamentomeiosangue.fandom.com/pt-br/wiki/Acampamento_J%C3%BApiter",
+      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrDO3mUm6NI196izjc1yOEDMy2kJyT59cpg&s",
       titulo: "Acampamento Júpiter",
       descricao: "Acampamento romano para semideuses, um dos poucos locais seguros para os semideuses. É um local de treinamento para os semideuses e possui um sistema bem organizado de liderança, sendo composto por: Probatio, Legionário, Centurião, Senador, Pretor e, Cônsul.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Acampamento_J%C3%BApiter",
@@ -154,6 +154,7 @@ let dados = [
       combinacao: "https://pm1.aminoapps.com/7054/ba384b0eba6eff0cb254ab2edc10daebcdff5c37r1-1200-1800v2_hq.jpg"
     },
   ];
+
 
 
 
