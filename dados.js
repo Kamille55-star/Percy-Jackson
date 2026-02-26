@@ -1,11 +1,13 @@
 let dados = [
     {
+      imagem: "http://camphalfbloodpjbr.blogspot.com/p/mapa.html",
       titulo: "Acampamento meio-sangue",
       descricao: "Acampamento grego para semideuses, um dos poucos locais seguros para os semideuses. É um local de treinamento para os semideuses e não possui um sistema de organização de lider, o cargo mais alto que há é o líder da cabana, diferentemente do acampamento romano.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Acampamento_Meio-Sangue",
       combinacao: "https://acampamentomeiosangue-rpg-2-0.weebly.com/uploads/4/6/6/0/46605143/1454561.jpg?839",
     },
     {
+      imagem: "https://acampamentomeiosangue.fandom.com/pt-br/wiki/Acampamento_J%C3%BApiter",
       titulo: "Acampamento Júpiter",
       descricao: "Acampamento romano para semideuses, um dos poucos locais seguros para os semideuses. É um local de treinamento para os semideuses e possui um sistema bem organizado de liderança, sendo composto por: Probatio, Legionário, Centurião, Senador, Pretor e, Cônsul.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Acampamento_J%C3%BApiter",
@@ -82,7 +84,7 @@ let dados = [
       combinacao: "https://s2.glbimg.com/5wnmNnB4POV5hGlrrljdNEKz7JE=/620x453/e.glbimg.com/og/ed/f/original/2013/03/05/shutterstock_111014786.jpg"
     },
     {
-      imagem: "https://pm1.aminoapps.com/6508/432d26b81164c627a14d8cb2ea47a326f4a2dd81_128.jpg",
+      imagem: "https://pt.quizur.com/trivia/voce-e-mesmo-fa-de-percy-jackson-1VTQ",
       titulo: "Sra. O' Leary/ Sra O' leary",
       descricao: "Único cão infernal amigável existente. Seu dono inicialmente era Quintus (Dédalo), mas depois da morte de Dédalo o seu dono virou Percy. Ela é filha de Cérbero e Nix.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Sra.O%27Leary",
@@ -152,5 +154,6 @@ let dados = [
       combinacao: "https://pm1.aminoapps.com/7054/ba384b0eba6eff0cb254ab2edc10daebcdff5c37r1-1200-1800v2_hq.jpg"
     },
   ];
+
 
 
