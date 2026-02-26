@@ -1,6 +1,6 @@
 let dados = [
     {
-      imagem: "http://camphalfbloodpjbr.blogspot.com/p/mapa.html",
+      imagem: "https://static.wikia.nocookie.net/acampamentomeiosangue/images/e/e6/Acampamento_Meio-Sangue.png/revision/latest?cb=20251115054515&path-prefix=pt",
       titulo: "Acampamento meio-sangue",
       descricao: "Acampamento grego para semideuses, um dos poucos locais seguros para os semideuses. É um local de treinamento para os semideuses e não possui um sistema de organização de lider, o cargo mais alto que há é o líder da cabana, diferentemente do acampamento romano.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Acampamento_Meio-Sangue",
@@ -154,6 +154,7 @@ let dados = [
       combinacao: "https://pm1.aminoapps.com/7054/ba384b0eba6eff0cb254ab2edc10daebcdff5c37r1-1200-1800v2_hq.jpg"
     },
   ];
+
 
 
 
