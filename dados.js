@@ -84,7 +84,7 @@ let dados = [
       combinacao: "https://s2.glbimg.com/5wnmNnB4POV5hGlrrljdNEKz7JE=/620x453/e.glbimg.com/og/ed/f/original/2013/03/05/shutterstock_111014786.jpg"
     },
     {
-      imagem: "https://static.wikia.nocookie.net/acampamentomeio-sangue/images/2/2c/Mrs._O%27Leary.jpg/revision/latest/smart/width/386/height/259?cb=20120418001712&path-prefix=pt-br",
+      imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9n_s-cXX8q7Ph5k0En4rHBJsiRHjq-eh1w&s",
       titulo: "Sra. O' Leary/ Sra O' leary",
       descricao: "Único cão infernal amigável existente. Seu dono inicialmente era Quintus (Dédalo), mas depois da morte de Dédalo o seu dono virou Percy. Ela é filha de Cérbero e Nix.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Sra.O%27Leary",
@@ -154,6 +154,7 @@ let dados = [
       combinacao: "https://pm1.aminoapps.com/7054/ba384b0eba6eff0cb254ab2edc10daebcdff5c37r1-1200-1800v2_hq.jpg"
     },
   ];
+
 
 
 
