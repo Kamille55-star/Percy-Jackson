@@ -25,7 +25,7 @@ let dados = [
       titulo: "Annabeth Chase",
       descricao: "Annabeth Chase é filha da deusa Atena e do mortal Frederick Chase. Possui grande inteligência e estratégia em batalha, e no começo da saga não se dá bem com o pai. Seu defeito fatal é o orgulho.",
       link: "https://acampamentomeiosangue.fandom.com/pt/wiki/Annabeth_Chase",
-      combinacao: "https://www.projetou.com.br/posts/wp-content/uploads/sites/6/2021/06/partenon-2-1024x704.jpg"
+      combinacao: "https://static.wikia.nocookie.net/olympians/images/a/ab/Parthenon_replica.jpg/revision/latest?cb=20190120205713"
     },
     {
       imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTup87UwlCcBfAMRLkH9Bggv3FExvCjAG_VFw&s",
